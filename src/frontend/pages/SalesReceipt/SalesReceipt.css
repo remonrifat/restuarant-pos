@@ -1,0 +1,247 @@
+/* Print-specific styles */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  .sales-receipt,
+  .sales-receipt * {
+    visibility: visible;
+  }
+  .sales-receipt {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 80mm; /* Standard receipt width */
+  }
+}
+
+.sales-receipt {
+  font-family: 'Courier New', Courier, monospace;
+  width: 80mm;
+  margin: 0 auto;
+  padding: 10mm;
+  background: white;
+}
+
+.receipt-content {
+  text-align: center;
+}
+
+.receipt-logo {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+}
+
+.receipt-header {
+  margin-bottom: 20px;
+}
+
+.receipt-header h1 {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.receipt-header p {
+  font-size: 0.9em;
+  margin: 5px 0;
+}
+
+.receipt-date {
+  margin-top: 10px;
+  font-style: italic;
+}
+
+.receipt-items {
+  margin: 20px 0;
+}
+
+.receipt-items table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.receipt-items th,
+.receipt-items td {
+  text-align: left;
+  padding: 5px;
+  font-size: 0.9em;
+}
+
+.receipt-items th {
+  border-bottom: 1px dashed #000;
+}
+
+.receipt-summary {
+  margin: 20px 0;
+  border-top: 1px dashed #000;
+  padding-top: 10px;
+}
+
+.total-line,
+.payment-line {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+  font-weight: bold;
+}
+
+.receipt-footer {
+  margin-top: 20px;
+  border-top: 1px dashed #000;
+  padding-top: 10px;
+}
+
+.receipt-footer p {
+  margin: 5px 0;
+  font-size: 0.9em;
+}
+
+.receipt-id {
+  font-size: 0.8em;
+  margin-top: 10px;
+  color: #666;
+}
+
+/* Print styles */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  
+  .w-[300px] {
+    width: 80mm !important; /* Standard thermal receipt width */
+  }
+  
+  .sales-receipt,
+  .sales-receipt * {
+    visibility: visible;
+    color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+  
+  .sales-receipt {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 0;
+    padding: 0;
+    margin: 0;
+    border: none;
+    box-shadow: none;
+  }
+
+  /* Ensure black text on white background */
+  .text-gray-500 {
+    color: #666666 !important;
+  }
+
+  .text-gray-600 {
+    color: #444444 !important;
+  }
+
+  /* Ensure borders print clearly */
+  .border-b {
+    border-bottom: 1px solid #000000 !important;
+  }
+
+  .border-t {
+    border-top: 1px solid #000000 !important;
+  }
+
+  .border-dashed {
+    border: 2px dashed #000000 !important;
+  }
+
+  /* Ensure background colors print */
+  .bg-black {
+    background-color: #000000 !important;
+  }
+
+  .text-white {
+    color: #ffffff !important;
+  }
+}
+
+/* Screen styles */
+.sales-receipt {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 2rem auto;
+}
+
+/* Ensure crisp text */
+.text-xs {
+  font-size: 0.75rem;
+  line-height: 1rem;
+}
+
+.text-sm {
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+/* Grid layout */
+.grid-cols-3 {
+  display: grid;
+  grid-template-columns: 0.5fr 2fr 1fr;
+  gap: 0.5rem;
+  align-items: start;
+}
+
+/* Spacing */
+.py-1 {
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+}
+
+.py-2 {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.mt-2 {
+  margin-top: 0.5rem;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
+/* Logo */
+.w-12 {
+  width: 3rem;
+}
+
+.h-12 {
+  height: 3rem;
+}
+
+.object-contain {
+  object-fit: contain;
+}
+
+/* Barcode section */
+.tracking-widest {
+  letter-spacing: 0.2em;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}

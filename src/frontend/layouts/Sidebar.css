@@ -1,0 +1,7 @@
+.box {
+    --mask:
+      radial-gradient(12.81px at 50% 18px,#000 99%,#0000 101%) calc(50% - 20px) 0/40px 100%,
+      radial-gradient(12.81px at 50% -8px,#0000 99%,#000 101%) 50% 10px/40px 100% repeat-x;
+    -webkit-mask: var(--mask);
+            mask: var(--mask);
+  }

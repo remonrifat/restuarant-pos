@@ -1,0 +1,46 @@
+[
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/785f/0186/68cf79f3fa26c9fb0292ad111e16eeca?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NBsBRuiT0pO33EX~e1vXqvLLz-5ffddpl3c78vl1QAu--pVkuBjFdt8PEZAmVZs~kPIqL3tL0DjLgjpqE9xLOO-U-rX-Ary1VD4RiTxNrJPNJ5q2wpk1Jgr0PudDMb3y3uqoWrOjus8veTV5I3uCBThUaQAeMt9A5avKcpHoRto2019a1DZ2ghaYUq2XmNIuhkax8nJXQekMm~3prwUmKW2qmePVJA180HlMe0Kfenzy9aFTrXs~CaVbgVkG7klY2CfyQBAT6-EkL4AlVRfdDo~uZK6UzNg64dTc6~5-35qJKXgbqsYvwyDHaPfltb4VfqcUUnnFuZ7psgjM9XCOOw__",
+    "name": "All Natural Style Chicken 1",
+    "originalPrice": 25.5,
+    "price": 18.88,
+    "quantity": 1,
+    "category": "Vegetables",
+    "brand": "Agora",
+    "description": "This homemade BBQ chicken pizza features tangy BBQ sauce, pre-cooked chicken, and red onion. Mixing mozzarella with smoked gouda cheese makes for the most delicious flavor.",
+    "barcode": "4711421879187"
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/5fc0/b63c/6ff6f1d033a16f91aece9d9d1633401f?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=HoZesJkVd74ngNkIlOTnrkxT8m-IK4ZxLZzS2o7C80G94icM2NwRu2SqrvgBTkN1JcS9T5nGvGdVpaZZLS6tBGMwJSiZ88z2F7OvbvRekECUg~5TbIrWgGmGq47hgSiAIG3xvVh6tF-yJud~CmoR8sFviIClK2algMsw34PhcP5ABQfJEUlBSZ9DrMOxZBHPgVN8Duf9QOKHqeqEEcxLIGndww61VwQ4wWuXs3jiZJ3W4BGibQ5BNjqfM~UIacCQnNJacXkBON7Bv-KthVj6PRfqX~FB5CsAIbUZ7GSaa2AIKReyKsCCJDEl1Z-j8N8RwlRWmCXMbjyKkCfRF7r2-A__",
+    "name": "Chicken Combo",
+    "originalPrice": 25.5,
+    "price": 18.88,
+    "quantity": 1,
+    "category": "Vegetables",
+    "brand": "Agora",
+    "description": "This BBQ chicken pizza recipe is easy to make with fresh ingredients, ensuring the best taste for your family and friends.",
+    "barcode": "0987654321"
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/31df/498a/baeff0bd84e977c198c8e4bf550b1a2e?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kvDRePLh-VAEGzOV6Eif8MC9UpzESZSOaLi87hsvjAuzDwnsd-rXLOh8RnS6dDL4dc1fxO1lpEflTLAskute8rKcFmI91z2E0wngwLtfxUeqKDz~Q8MDoGoXUSc64XEeYvyKaP3scRaYt6saI93AI5ugV2zzd2D21zZ2NRkadbAfv-udsvGfTSoMUXXtb1NsP~~QLo4Bt0mrtyL4ZlH2PXg1T3vyvWIMevOpng4zwakkvoU3Xzz2yW3JLSI5uDed03r4zbjxuPf-ZBP5jrxXR1Hax8SDNfS5VsF4pZiThikf-yH-bWP5vXtTL7QZtUXINLaECjXKc4r0rHu0c5tp9Q__",
+    "name": "All Natural Style Chicken 3",
+    "originalPrice": 25.5,
+    "price": 18.88,
+    "quantity": 1,
+    "category": "Vegetables",
+    "brand": "Agora",
+    "description": "Another version of BBQ chicken pizza with fresh, vibrant ingredients for a delicious experience.",
+    "barcode": "1122334455"
+  },
+  {
+    "image": "https://s3-alpha-sig.figma.com/img/31df/498a/baeff0bd84e977c198c8e4bf550b1a2e?Expires=1737331200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kvDRePLh-VAEGzOV6Eif8MC9UpzESZSOaLi87hsvjAuzDwnsd-rXLOh8RnS6dDL4dc1fxO1lpEflTLAskute8rKcFmI91z2E0wngwLtfxUeqKDz~Q8MDoGoXUSc64XEeYvyKaP3scRaYt6saI93AI5ugV2zzd2D21zZ2NRkadbAfv-udsvGfTSoMUXXtb1NsP~~QLo4Bt0mrtyL4ZlH2PXg1T3vyvWIMevOpng4zwakkvoU3Xzz2yW3JLSI5uDed03r4zbjxuPf-ZBP5jrxXR1Hax8SDNfS5VsF4pZiThikf-yH-bWP5vXtTL7QZtUXINLaECjXKc4r0rHu0c5tp9Q__",
+    "name": "All Natural Style Chicken 3",
+    "originalPrice": 25.5,
+    "price": 18.88,
+    "quantity": 1,
+    "category": "Vegetables",
+    "brand": "Agora",
+    "description": "Another version of BBQ chicken pizza with fresh, vibrant ingredients for a delicious experience.",
+    "barcode": "2233445566"
+  }
+]

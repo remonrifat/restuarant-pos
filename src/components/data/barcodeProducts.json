@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": "BP001",
+      "barcode": "4711421879187",
+      "title": "A4 tech OP-620D Wired Optical Mouse",
+      "category": "Burgers",
+      "description": "Juicy beef patty with fresh lettuce, tomato, and special sauce",
+      "price": "$12.99",
+      "oldPrice": "$14.99",
+      "img": "https://img.drz.lazcdn.com/static/bd/p/72fb7891e23de9034fa5e52e9c106c01.jpg_720x720q80.jpg",
+      "stock": 50,
+      "ingredients": ["Beef patty", "Lettuce", "Tomato", "Onion", "Special sauce"],
+      "nutritionInfo": {
+        "calories": 650,
+        "protein": "35g",
+        "carbs": "45g",
+        "fat": "32g"
+      }
+    },
+    {
+      "id": "BP002",
+      "barcode": "556174815496",
+      "title": "Quaker",
+      "category": "OAT CEREAL DRINK",
+      "description": "QUAKER 3-in-1 Oat Cereal Drink Chocolate Flavour 15 Sachets x 28g (420g)",
+      "price": "$15.99",
+      "oldPrice": "$18.99",
+      "img": "https://i.ebayimg.com/images/g/MhoAAOSwmPtmqKyQ/s-l1200.jpg",
+      "stock": 30,
+      "ingredients": ["Pizza dough", "Tomato sauce", "Fresh mozzarella", "Fresh basil", "Olive oil"],
+      "nutritionInfo": {
+        "calories": 850,
+        "protein": "28g",
+        "carbs": "98g",
+        "fat": "26g"
+      }
+    },
+    {
+      "id": "BP003",
+      "barcode": "557484448152",
+      "title": "Sing Sang",
+      "category": "Coffee Mix",
+      "description": "Fresh romaine lettuce with parmesan, croutons, and Caesar dressing",
+      "price": "$9.99",
+      "oldPrice": "$11.99",
+      "img": "https://www.sinsingcoffee.com/wp-content/uploads/2017/07/C02_398-1.png",
+      "stock": 25,
+      "ingredients": ["Romaine lettuce", "Parmesan cheese", "Croutons", "Caesar dressing"],
+      "nutritionInfo": {
+        "calories": 320,
+        "protein": "12g",
+        "carbs": "15g",
+        "fat": "28g"
+      }
+    },
+    {
+      "id": "BP004",
+      "barcode": "622201761677",
+      "title": "Dairy Milk",
+      "category": "Roast Almond",
+      "description": "Cadbury Dairy Milk Silk Roast Almond Bar: 143 gms",
+      "price": "$13.99",
+      "oldPrice": "$16.99",
+      "img": "https://cdn.dmart.in/images/products/JAN120000698xx1JAN24_5_B.jpg",
+      "stock": 40,
+      "ingredients": ["Chicken wings", "Choice of sauce", "Celery sticks", "Ranch dressing"],
+      "nutritionInfo": {
+        "calories": 750,
+        "protein": "45g",
+        "carbs": "12g",
+        "fat": "52g"
+      }
+    },
+    {
+      "id": "BP005",
+      "barcode": "8901234567894",
+      "title": "Chocolate Brownie",
+      "category": "Desserts",
+      "description": "Rich chocolate brownie with vanilla ice cream",
+      "price": "$7.99",
+      "oldPrice": "$9.99",
+      "img": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e",
+      "stock": 35,
+      "ingredients": ["Dark chocolate", "Butter", "Eggs", "Flour", "Vanilla ice cream"],
+      "nutritionInfo": {
+        "calories": 450,
+        "protein": "8g",
+        "carbs": "52g",
+        "fat": "24g"
+      }
+    }
+  ]
+}

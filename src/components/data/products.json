@@ -1,0 +1,71 @@
+{
+    "All": [
+      {
+        "img": "https://img.freepik.com/free-photo/stewed-white-beans-sliced-pumpkin-tomato-sauce_2829-19775.jpg?t=st=1738034627~exp=1738038227~hmac=41a9e92bb4e666773c8f9773f72c9a6266b9e64e125d9c099e9ee848e2c882b6&w=740",
+        "title": "All Natural Meatballs",
+        "price": "$5",
+        "oldPrice": "$10.50"
+      },
+      {
+        "img": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19992.jpg?t=st=1737787405~exp=1737791005~hmac=2246574930edbe6ebd095194f4cea18f750931869a2a1988648add3b3dcb4748&w=740",
+        "title": "All Natural Style  Meatballs",
+        "price": "$90",
+        "oldPrice": "$95.50"
+      },
+      {
+        "img": "https://img.freepik.com/free-photo/fried-chicken-with-mushrooms-rice_140725-9648.jpg?t=st=1738034669~exp=1738038269~hmac=37c9cd6e11b165cde2f72b31998c4b9c88ae8f97fe24c8bdc28449d911b1897c&w=740",
+        "title": "All Natural Meatballs",
+        "price": "$58.88",
+        "oldPrice": "$75.50"
+      },
+      {
+        "img": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19992.jpg?t=st=1737787405~exp=1737791005~hmac=2246574930edbe6ebd095194f4cea18f750931869a2a1988648add3b3dcb4748&w=740",
+        "title": "All Natural Style  Meatballs",
+        "price": "$90.88",
+        "oldPrice": "$95.50"
+      }
+    ],
+    "Milks & Dairies": [
+      {
+        "img": "https://img.freepik.com/free-vector/cow-with-dairy-farm-label_1308-92086.jpg?t=st=1738034746~exp=1738038346~hmac=a91ad9a181a1c772131b3bc1f59430fce314614851e3948997541483de8c1951&w=740",
+        "title": "Dairy Farm Milk",
+        "price": "$78.88",
+        "oldPrice": "$95.50"
+      },
+      {
+        "img": "https://img.freepik.com/premium-vector/dairy-milk-products-banners-farm-cheese-butter_8071-40760.jpg?w=740",
+        "title": "Dairy Products",
+        "price": "$18.88",
+        "oldPrice": "$35.50"
+      }
+    ],
+    "Coffees & Teas": [
+      {
+        "img": "https://img.freepik.com/free-photo/cup-coffee-with-heart-drawn-foam_1286-70.jpg?t=st=1738034930~exp=1738038530~hmac=53575131698be860f632ce3e49993a47d55368bffa1400fd9b40f275077ca6de&w=740",
+        "title": "Premium Coffee Beans",
+        "price": "$12.50",
+        "oldPrice": "$16.00"
+      },
+      {
+        "img": "https://img.freepik.com/free-photo/top-view-cups-tea-various-spices-herbs-with-mixed-nuts-dried-fruits-rustic_141793-7303.jpg?t=st=1738034876~exp=1738038476~hmac=36a4cd05a11219b70c1713a3b78b674004147ebf59f3a8bd9fe3656e63d99d72&w=360",
+        "title": "Premium Tea Leaves",
+        "price": "$18.88",
+        "oldPrice": "$25.50"
+      }
+    ],
+    "Pet Foods": [
+      {
+        "img": "https://img.freepik.com/free-photo/various-breakfast-cereals_114579-8979.jpg?t=st=1738035016~exp=1738038616~hmac=8f0ea327a5de649c6389df8751bfc9b117e2a7d64de1cb86b226cf4b93df13da&w=740",
+        "title": "Natural Pet Food",
+        "price": "$9.99",
+        "oldPrice": "$14.99"
+      },
+      {
+        "img": "https://img.freepik.com/free-photo/pouring-pet-food-into-bowl_53876-31324.jpg?t=st=1738035053~exp=1738038653~hmac=a740329276d0971ebba791fe3e0be3389ab58c70b115345055bc7c98d18efb59&w=740",
+        "title": "Cat Food Pack",
+        "price": "$18.88",
+        "oldPrice": "$25.50"
+      }
+    ]
+  }
+  
